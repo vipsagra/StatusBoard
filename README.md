@@ -17,4 +17,18 @@
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Data Science Lab| Analytics On Demand | SPDXC-242 | Deployment |||Apr19|May19|June19|July19|July19|
 
+|Comments|
+|-----|
+|Some of the approaval associated with user group and S3 data late has caused delay in deployment, Access issue is expected to be resolved in next two week and deplyment will carried out on 12th July|
+
+| Solution Set | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Self Service Analytics|IQ toolkit | BAP-357 | Deployment |||Apr19|May19|June19|July19|July19|
+
+|Comments|
+|-----|
+|Deployment complexity impacting feasibility to adopted the asset at scale. 
+Plan is to accelerate transition to OC. Need to confirm dates and resources|
+
+
 
