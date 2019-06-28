@@ -16,4 +16,4 @@
 
 | Solution Set | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | Comments | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Jan | Feb | Mar | Apr| May | Jun |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Intelligent Automation|SRA (Service Limits |BAP 412, 67|Pilot|||Pilot ran for SRA account|![Code](C.png)|![Design](D.png)||![Pilot](P.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)||
+|Intelligent Automation|SRA (Service Limits |BAP 412, 67|Pilot|||Pilot ran for SRA account|![Code](C.png)|![Design](D.png)|![Build](B.png)|![Pilot](P.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)|![Deploy](DY.png)||
