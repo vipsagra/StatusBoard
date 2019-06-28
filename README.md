@@ -15,7 +15,7 @@
 ### Data Science Lab
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | Analytics On Demand | SPDXC-242 | Deployment |||Apr19|May19|June19|July19|July19|
 
 |Comments|
