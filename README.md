@@ -12,18 +12,20 @@
 # Red - Amber Status for Analytics
 
 <!-- ![image](LC.png) -->
+### Data Science Lab
 
-| Solution Set | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
+| Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Data Science Lab| Analytics On Demand | SPDXC-242 | Deployment |||Apr19|May19|June19|July19|July19|
+| Analytics On Demand | SPDXC-242 | Deployment |||Apr19|May19|June19|July19|July19|
 
 |Comments|
 |-----|
 |Some of the approaval associated with user group and S3 data late has caused delay in deployment, Access issue is expected to be resolved in next two week and deplyment will carried out on 12th July|
 
+### Self Service Analytics
 | Solution Set | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Self Service Analytics|IQ toolkit | BAP-357 | Deployment |||Apr19|May19|June19|July19|July19|
+|IQ toolkit | BAP-357 | Deployment |||Apr19|May19|June19|July19|July19|
 
 |Comments|
 |-----|
