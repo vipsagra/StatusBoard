@@ -11,7 +11,7 @@
 
 # Red - Amber Status for Analytics
 
- ![image](LC.png) 
+<!-- ![image](LC.png) -->
 
 | Solution Set | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
