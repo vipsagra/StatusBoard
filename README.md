@@ -17,7 +17,7 @@
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Analytics On Demand | SPDXC-242 | Deployment |||Apr19|May19|June19|July19|July19|
+| Analytics On Demand | SPDXC-242 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19|July19|
 
 |Comments|
 |-----|
@@ -28,7 +28,7 @@
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|IQ toolkit | BAP-357 | Deployment |||May19|June19|July19-Aug19|Sep19-Oct19||
+|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||May19|June19|July19-Aug19|Sep19-Oct19||
 
 |Comments|
 |-----|
