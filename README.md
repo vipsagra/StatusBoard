@@ -25,9 +25,7 @@
 
 
 ### Self Service Analytics
-| Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|IQ toolkit | BAP-357 | Deployment |||May19|June19|July19-Aug19|Sep19-Oct19||
+
 
 |Comments|
 |-----|
