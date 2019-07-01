@@ -12,7 +12,7 @@
 # Red - Amber Status for Analytics
 
 <!-- ![image](LC.png) -->
-### Data Science Lab
+### 1. Data Science Lab
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -20,14 +20,14 @@
 
 |Comments|
 |-----|
-|Some of the approaval associated with infosec user group and S3 data late has caused delay in deployment, Access issue is expected to be resolved in next two week and deplyment will carried out on 12th July|
+|Currently deployment activites are going on, major issue is associated with approvals on the infosec security groups and role. There are some more issues associated with ansible code cropped up in the last phase of testing this is also pushing final deployment. Enggineering team is targetting to get deployent be completed before July 10.|
 
 
-### Self Service Analytics
+### 2. Self Service Analytics
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||May19|June19|July19-Aug19|Sep19-Oct19||
+|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19||
 
 |Comments|
 |-----|
