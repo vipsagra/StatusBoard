@@ -7,7 +7,7 @@
 |||![image](rag.png)|![image](rag.png)|![image](rag.png)|![image](rag.png)|| Q1| Potential (Q2,Q3,Q4)|
 |Analytics|Data Science Lab||||![amber](1a.png)![Green](7g.png)|||||
 ||Intelligent Automation||||![Green](2g.png)|||||
-||Self Service Analytics||||![Green](8g.png)|||||
+||Self Service Analytics||||![Green](9g.png)|||||
 
 ### Metrics
 
