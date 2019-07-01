@@ -1,12 +1,13 @@
 # Analytics - Status Board
 
+### Data Science Lab
 
-| Big Play | Solution Set | Definition | Build MVP | Pilot | Depoyable | End of Life | Impact | 
-| ---------| ------------- | ------ | ------ | ----- | ------- | ------- | ------- | 
+| Big Play | Solution Set | Definition | Build MVP | Pilot | Depoyable | End of Life | Impact | |
+| ---------| ------------- | ------ | ------ | ----- | ------- | ------- | ------- |------ |
 |||![image](rag.png)|![image](rag.png)|![image](rag.png)|![image](rag.png)|| Q1| Potential (Q2,Q3,Q4)|
-|Analytics|Data Science Lab|3![Green](G.png)|1![Green](G.png)||6![Green](G.png)||||
-||Intelligent Automation||||2![Green](G.png)1![Red](R.png)||||
-||Self Service Analytics||||8![Green](G.png)1![Red](R.png)||||
+|Analytics|Data Science Lab||||![amber](1a.png)![Green](7g.png)|||||
+||Intelligent Automation||||![Green](2g.png)|||||
+||Self Service Analytics||||![Green](8g.png)|||||
 
 ### Metrics
 
