@@ -7,7 +7,7 @@
 |||![image](rag.png)|![image](rag.png)|![image](rag.png)|![image](rag.png)|| Q1| Potential (Q2,Q3,Q4)|
 |Analytics|Data Science Lab||||![amber](1a.png)![Green](7g.png)|||||
 ||Intelligent Automation||||![Green](2g.png)|||||
-||Self Service Analytics||||![Green](9g.png)|||||
+||Self Service Analytics||||![amber](1a.png)![Green](8g.png)|||||
 
 ### Metrics
 
@@ -24,7 +24,7 @@
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Analytics On Demand | SPDXC-242 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19|July19|
+| Analytics On Demand | SPDXC-242 | ![Deployment](AmberDeployment.png) |||Apr19|May19|May19 - June19|June19|July19|
 
 |Comments|
 |-----|
@@ -35,7 +35,7 @@
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19|July19|
+  |IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||May19|June19|June19 - July19|July19 - Aug19||
 
 |Comments|
 |-----|
