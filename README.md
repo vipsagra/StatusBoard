@@ -8,6 +8,13 @@
 ||Intelligent Automation||||2![Green](G.png)1![Red](R.png)||||
 ||Self Service Analytics||||8![Green](G.png)1![Red](R.png)||||
 
+### Metrics
+
+| KPI | Target | Plan | Achived YTD |
+|-----|-----|-----|-----|
+| % of FY20 ready for consumption | 100% | 10% | 90% |
+|% of FY20 Asset off Track| 0% | 0% | 10% |
+|ROI at solution set level | TBD | TBD | |
 
 # Red - Amber Status for Analytics
 
@@ -27,7 +34,7 @@
 
 | Asset | Epic | Lifecycle Stage | Q1 | Q2,Q3,Q4 | ![Concept](Concept.png) | ![Design](Design.png) | ![Build](Build.png) | ![Pilot](Pilot.png) | ![Deploy](Deploy.png) |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19||
+|IQ toolkit | BAP-357 | ![Deployment](AmberDeployment.png) |||Apr19|May19|June19|July19|July19|
 
 |Comments|
 |-----|
