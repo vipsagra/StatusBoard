@@ -13,8 +13,8 @@
 
 | KPI | Target | Plan | Achived YTD |
 |-----|-----|-----|-----|
-| % of FY20 ready for consumption | 100% | 10% | 90% |
-|% of FY20 Asset off Track| 0% | 0% | 10% |
+| % of FY20 ready for consumption | 100% | 10% | ![Green](90kpi.png) |
+|% of FY20 Asset off Track| 0% | 0% | ![amber](10kpi.png) |
 |ROI at solution set level | TBD | TBD | |
 
 # Red - Amber Status for Analytics
