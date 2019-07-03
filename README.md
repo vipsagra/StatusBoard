@@ -28,7 +28,7 @@
 
 |Comments|
 |--------|
-|Currently deployment activites are going on, major issue is associated with approvals on the infosec security groups and role. There are some more issues associated with ansible code cropped up in the last phase of testing this is also pushing final deployment. Enggineering team is targetting to get deployent be completed before July 10.|
+|Currently deployment activites are going on, major issue is associated with approvals on the infosec security groups and role. There are some more issues associated with ansible code cropped up in the last phase of testing this is also pushing final deployment. Enggineering team is targetting to get deployent be completed on or before July 10.|
 
 
 ### 2. Self Service Analytics
